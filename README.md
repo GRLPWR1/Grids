@@ -1,2 +1,2 @@
 # Grids
-My grids homework
+My grids homework (schematic layout)
