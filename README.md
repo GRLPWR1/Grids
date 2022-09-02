@@ -1,2 +1,2 @@
 # Grids
-My grids homework (schematic layout)
+Week 6, grids homework (schematic layout)
